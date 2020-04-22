@@ -1,0 +1,40 @@
+
+*{
+	margin: 0;
+}
+.menu{
+	background-color: #f6b93b;
+}
+.menu ul{
+	display: flex;
+	list-style: none;
+	justify-content: center;
+
+}
+.menu ul li{
+	
+	padding: 10px 20px;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+}
+.menu ul li a:hover{
+	color:  #130f40;
+
+}
+h1{
+	color: #f6b93b;
+	padding-top: 30px;
+	padding-left: 90px;
+}
+.content{
+	background-color: #130f40;
+	height: 450px;
+	width: 100%
+}
+p{
+	color: #f6b93b;
+	padding-top: 30px;
+	padding-left: 90px;
+}

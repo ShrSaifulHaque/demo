@@ -1,0 +1,78 @@
+body{
+	background: #0c0b33;
+}
+h1{
+text-align: center;
+color: white;
+padding-top: 110px;
+margin-left: 0px;
+
+
+}
+p{
+	color: white;
+	margin-left: 60px;
+}
+.log{
+ background: #130f40;
+ width: 400px;
+ height: 500px;
+ margin: 50px auto ;
+
+}
+.log label{
+	display:block;
+	text-align: center;
+	color:#f6b93b;
+}
+.ab{
+	margin-right: 15px;
+}
+.abc{
+	margin-top: 10px;
+}
+.log  form  input[type=email] {
+	display: block;
+	margin-top: 10px;
+	margin-left: 110px;
+	padding: 5px 0;
+}
+.log  form  input[type=password] {
+	display: block;
+	margin-top: 10px;
+	margin-left: 110px;
+	padding: 5px 0;
+}
+
+
+
+button{
+	margin-left: 160px;
+	background: #130f40;
+	border-color: #f6b93b;
+	padding: 5px 15px ;
+	
+	margin-top: 20px;
+}
+.login{
+	color:white;
+	text-decoration: none;
+	
+}
+.log form button:hover{
+	background-color:#f6b93b;
+}
+.btn{
+	margin-left: 130px;
+	background: #130f40;
+	border-color: #f6b93b;
+	padding: 5px 15px ;
+	
+	margin-top: 5px;
+}
+.signup{
+	color:white;
+	text-decoration: none;
+	padding: 5px 30px ;
+
+}

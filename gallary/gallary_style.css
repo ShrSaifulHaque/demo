@@ -1,0 +1,101 @@
+
+*{
+	margin: 0;
+}
+.menu{
+	background-color: #f6b93b;
+}
+.menu ul{
+	display: flex;
+	list-style: none;
+	justify-content: center;
+
+}
+.menu ul li{
+	
+	padding: 10px 20px;
+}
+.menu ul li a{
+	text-decoration: none;
+	color: white;
+}
+.menu ul li a:hover{
+	color:  #130f40;
+
+}
+
+.content{
+	background-color: #130f40;
+	height: 200px;
+	padding: 100px 0;
+	display: flex;
+	
+}
+.content2{
+	background-color: #130f40;
+	height: 300px;
+	
+	display: flex;
+	
+}
+.picture1{
+	width: 20%;
+  
+
+	
+}
+.picture2{
+	width: 20%;
+
+	
+}
+.picture3{
+	width: 20%;
+	
+}
+.picture1 img{
+	width: 100%;
+	margin-left: 300px;
+
+}
+.picture2 img{
+	width: 100%;
+	margin-left: 320px;
+}
+.picture3 img{
+	width: 100%;
+	margin-left: 340px;
+}
+.picture1 h2{
+	color: #fff;
+	text-align: center;
+	width: 100%;
+	margin-left: 300px;
+}
+.picture2 h2{
+	color: #fff;
+	text-align: center;
+	width: 100%;
+	margin-left: 320px;
+}
+.picture3 h2{
+	color: #fff;
+	text-align: center;
+	width: 100%;
+	margin-left: 340px;
+}
+.picture1 p{
+	color: #f6b93b;
+	width: 100%;
+	margin-left: 300px;
+}
+.picture2 p{
+	color: #f6b93b;
+	width: 100%;
+	margin-left: 320px;
+}
+.picture3 p{
+	color: #f6b93b;
+	width: 100%;
+	margin-left: 340px;
+}
